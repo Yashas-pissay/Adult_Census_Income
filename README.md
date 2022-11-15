@@ -6,12 +6,12 @@
 
 In this study, Machine Learning Classification techniques is used in order to predict whether a person's yearly income falls in the income category of either greater than 50K Dollars or less then equal to 50K Dollars category based on a certain set of attributes. An analysis of this kind helps to figure out which individual attributes are necessary in improving an individual's income so that focus can be put on those specific factors so as to level up the income of individuals.
 
-Task we have performed
-Data ingestion
-Exploratory Data Analysis
-Univariate Analysis
-Bivariate Analysis
-Handle the null Values
+#Task we have performed
+1.Data ingestion
+2.Exploratory Data Analysis
+3.Univariate Analysis
+4.Bivariate Analysis
+5.Handle the null Values
 Graphical Analysis
 Handling the outliers
 Store preprocessed data into mongoDB
