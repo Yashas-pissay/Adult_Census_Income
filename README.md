@@ -1,8 +1,8 @@
 # Adult_Census_Income
-Problem Statement
-Predict whether income of individual exceeds $50K/yr or not based on attributes given
-Description
-As the problem of inequality of income has become very prominent over the years, governments of different countries have been trying to address the problem so as to improve the economic stability of a nation.
+# Problem Statement
+    Predict whether income of individual exceeds $50K/yr or not based on attributes given
+# Description
+   As the problem of inequality of income has become very prominent over the years, governments of different countries have been trying to address the problem so as to improve the economic stability of a nation.
 
 In this study, Machine Learning Classification techniques is used in order to predict whether a person's yearly income falls in the income category of either greater than 50K Dollars or less then equal to 50K Dollars category based on a certain set of attributes. An analysis of this kind helps to figure out which individual attributes are necessary in improving an individual's income so that focus can be put on those specific factors so as to level up the income of individuals.
 
