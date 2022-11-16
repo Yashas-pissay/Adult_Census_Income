@@ -27,6 +27,7 @@ In this study, Machine Learning Classification techniques is used in order to pr
 16. Model Building
     - Baseline Model : Support Vector Classifier (SVC)
     - Logistic Regression
+    - Decision Tree Classifier
     - SVC Hyperparameter tunning
 17. Balance dataset using Random Under Sampler 
     - Balanced SVC Classifier
